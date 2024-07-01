@@ -1,10 +1,14 @@
 # Quote Search System
 
-<img src="image.png" alt="Quote Search Logo" width="200" align="left" style="margin-right: 20px;"/>
+<img src="image.png" alt="Quote Search Logo" width="200" style="margin-right: 20px;"/>
 
 Welcome to the Quote Search System, a powerful and intuitive web application designed to explore and discover a vast collection of inspirational quotes.
 
-<br clear="left"/>
+
+
+## Demo
+
+https://knws.co.uk/quotes
 
 ## Features
 
@@ -57,7 +61,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
